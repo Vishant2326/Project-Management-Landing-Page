@@ -1,0 +1,1 @@
+<img src="assets/img/hero-img.png" class="img-fluid" alt="">
